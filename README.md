@@ -25,3 +25,31 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+Steps to run the project:
+
+You can run the project as follows:
+
+1. Manager Signup
+For Signup you can give the api as 
+`http://localhost:4200/register`
+
+2. Manager login
+For login as follows
+
+`http://localhost:4200/login`
+
+After login it will redirect to home page
+3. for Home page :
+
+add employee by manager
+
+`http://localhost:4200/add-profile`
+
+Manager can update, delete and check all the details of employee in the employee list of home page
+
+
+
+
+
+
